@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.javaricci.ApiRestFulWeb.ApiRestFulWebTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.631 s - in com.javaricci.ApiRestFulWeb.ApiRestFulWebTests
